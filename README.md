@@ -5,10 +5,10 @@
   Meu nome é Lucas Porto, tenho 25 anos, nascido em Brasília mas com aquele pezinho na Bahia e me aventuro no mundo dos códigos com meu forrózinho no ouvido há aproximadamente 7 anos ;).
 </p>
 <p align="center">
-  Hoje trabalho na <a href="http://www.hexgis.com/" target="_blank">Hex Tecnologias Geoespaciais</a> como dev Full-Stack
+  Hoje trabalho na <a href="https://mercafacil.com/" target="_blank">Mercafacil</a> como Software Engineer
 </p>
 <p align="center">
-E apaixonando pela stack <strong>Python/Django</strong>, <strong>Vue</strong> e <strong>React</strong> :heart:.
+E apaixonando pela stack <strong>Python/Django</strong>, <strong>NodeJS</strong>, <strong>Vue</strong> e <strong>React</strong> :heart:.
 </p>
 
 <p align="center">
