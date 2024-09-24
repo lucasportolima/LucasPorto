@@ -2,7 +2,7 @@
 <h1 align="center">Hi guys! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  Meu nome é Lucas Porto, tenho 29 anos, nascido em Brasília mas com aquele pezinho na Bahia e me aventuro no mundo dos códigos com meu forrózinho no ouvido há aproximadamente 7 anos ;).
+  Meu nome é Lucas Porto, tenho 29 anos, nascido em Brasília mas com aquele pezinho na Bahia e me aventuro no mundo dos códigos com meu forrózinho no ouvido há aproximadamente 10 anos ;).
 </p>
 <p align="center">
   Hoje trabalho na <a href="https://mercafacil.com/" target="_blank">Mercafacil</a> como Software Engineer
